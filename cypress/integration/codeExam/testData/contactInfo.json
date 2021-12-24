@@ -1,0 +1,14 @@
+{
+  "id": 1,
+  "firstName": "Arleta",
+  "lastName": "Barg",
+  "birthday": "1990-10-10",
+  "email": "a.barg@fake.net",
+  "phone": "3222233223",
+  "address1": "123 Main Street",
+  "address2": "1B",
+  "city": "Charlotte",
+  "state": "NC",
+  "zip": "28212",
+  "country": "US"
+}
